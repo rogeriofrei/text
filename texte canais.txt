@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:-1
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/starplus1/__index.m3u8?mu3zAQc9HC3GbwJq=m9ibJu4uKxzvfZq6Fh7h8A&3U1G7qaTxrPbalZnEx=1716347843&sv=421
+#EXTINF:-2
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/animalplanet/__index.m3u8?mu3zAQc9HC3GbwJq=eH-JvIn9bIgAYLoS-zc0Nw&3U1G7qaTxrPbalZnEx=1716347948&sv=422
+#EXTINF:-3
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/band/__index.m3u8?mu3zAQc9HC3GbwJq=tNZ6gurT4A5UGW--a7EU7Q&3U1G7qaTxrPbalZnEx=1716348011&sv=421
+#EXTINF:-4
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=W5rPAGmpgh-CLTZkxuTzdg&3U1G7qaTxrPbalZnEx=1716348078&sv=422
+#EXTINF:-5
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=W5rPAGmpgh-CLTZkxuTzdg&3U1G7qaTxrPbalZnEx=1716348078&sv=422
+#EXTINF:-6
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew22-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/hboxtreme/__index.m3u8?mu3zAQc9HC3GbwJq=jNtcHbg6SQFJ4H7gH4mRkA&3U1G7qaTxrPbalZnEx=1716348194&sv=422
